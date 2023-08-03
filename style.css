@@ -1,7 +1,13 @@
+@import url("styles/hearder.css");
+
+
 :root {
     --cor-de-fundo: #D2CECE;
+    --branco: #FFFFFF;
+    --laranja: #EB9B00;
 }
 
 body{
     background-color: var(--cor-de-fundo);
+
 }
